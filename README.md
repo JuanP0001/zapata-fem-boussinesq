@@ -3,7 +3,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -79,9 +78,9 @@ jupyter notebook analisis_zapata.ipynb
 
 ## 👤 Autor
 
-**[Tu Nombre]**  
-Ingeniero Civil — Geotecnia & Estructuras  
-[LinkedIn](https://linkedin.com/in/tu-perfil) · [GitHub](https://github.com/tu-usuario)
+**Juan Fernando Pineda Cano**  
+Ingeniero Civil 
+[LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/juan-fernando-pineda-236134205/) · [GitHub](https://github.com/tu-usuario)
 
 ---
 
