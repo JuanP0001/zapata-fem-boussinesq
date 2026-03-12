@@ -80,7 +80,7 @@ jupyter notebook analisis_zapata.ipynb
 
 **Juan Fernando Pineda Cano**  
 Ingeniero Civil 
-[LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/juan-fernando-pineda-236134205/) · [GitHub](https://github.com/tu-usuario)
+[LinkedIn]([https://www.linkedin.com/in/juan-fernando-pineda-236134205/]) · [GitHub](https://github.com/JuanP0001)
 
 ---
 
